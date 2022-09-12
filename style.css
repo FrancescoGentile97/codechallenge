@@ -1,0 +1,109 @@
+body{
+  background-image: url(background.jpg);
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100%;
+
+}
+
+.speciale{
+  font-size: 23px;
+  margin-top: 5px;
+  font-family: sans-serif;
+  margin-bottom: 5px;
+}
+
+.verde{
+  color: #00dd00;
+}
+
+
+.conteiner{
+  background-color: rgba(0,0,0,0.6);
+  width: 70%;
+  height: 90%;
+  margin-top: 2%;
+  padding-bottom: 4%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px 15px 15px 15px;
+}
+
+
+.principale{
+width: 500px;
+margin: auto;
+padding-top: 50px;
+}
+
+.inizio{
+align: auto;
+text-align: center;
+}
+
+.logo{
+  width: 200px;
+  align: auto;
+  text-align: center;
+}
+
+.funzioni{
+  background: #00DD00;
+  padding: 5px;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5px;
+}
+
+.persone{
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.Corpo{
+  width: 400px;
+  margin-left: 10%;
+  margin-top: 20px;
+
+}
+
+
+.barra-gino{
+  width: 300px;
+  background: #f5b453;
+
+}
+
+.barra-mike{
+  width: 500px;
+  background: #1ec31e;
+
+}
+
+.barra-fede{
+  width: 150px;
+  background: #be4141;
+}
+
+.testo{
+  margin-top: 1px;
+  font-size: 15px;
+  margin-bottom: 1px;
+
+}
+
+.barra{
+  height: 20px;
+  border-radius: 6px 6px 6px 6px;
+  margin-top: 0px;
+  display: inline-block;
+  border: 0px;
+}
+
+
+button{
+ font-size: 9px;
+}
